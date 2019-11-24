@@ -5,6 +5,9 @@ Simple javascript application
 ## Motivation
 I wantend to learn more about javascript
 
+## Screenshots
+![Design](https://i.ibb.co/hFr9jzC/drumkitaaa.png)
+
 ## Tech/framework used
 - HTML5
 - SCSS
