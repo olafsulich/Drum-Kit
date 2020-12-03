@@ -24,6 +24,3 @@ const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
 
 ## Live 
 https://vibrant-heyrovsky-ef2e76.netlify.com
-
-## Credits
-https://javascript30.com/
